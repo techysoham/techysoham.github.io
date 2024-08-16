@@ -17,8 +17,9 @@ permalink: /contact/
     <h3>Social Media</h3>
     <ul>
       <li><a href="https://twitter.com/techysoham">Twitter</a></li>
-      <li><a href="https://instagram.com/techysoham">Instagram</a></li>
+      <li><a href="https://instagram.com/techy.soham30">Instagram</a></li>
     </ul>
   </div>
 
 </div>
+
