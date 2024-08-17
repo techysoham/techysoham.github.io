@@ -5,4 +5,6 @@ date:   2024-08-17 18:07
 categories: jekyll update
 ---
 
-This blog focuses on sharing knowledge and personal life experiences around many topics including technology, food, culture, and entertainment. 
+Hello World! This is the first blog on this website. 
+
+Nothing to see here, check out the blogs that follow.
