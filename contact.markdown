@@ -1,25 +1,40 @@
 ---
 layout: default
-title: Contact Me
-permalink: /contact/
+title: Portfolio
+permalink: /portfolio/
 ---
 
-## Here are a few ways to contact me:
 
-<div style="display: flex; justify-content: space-between;">
+## Welcome to My Portfolio
 
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>Email</h3>
-    <p>You can reach me via email at: <a href="mailto:hi@sohampatil.in">hi@sohampatil.in</a></p>
-  </div>
+Here you'll find my collection of projects with their relavant links.  <br><br>
 
-  <div style="flex: 1;">
-    <h3>Social Media</h3>
-    <ul>
-      <li><a href="https://twitter.com/techysoham">Twitter</a></li>
-      <li><a href="https://instagram.com/techy.soham30">Instagram</a></li>
-    </ul>
-  </div>
+---
 
-</div>
 
+### [Title of Project 1](https://link-to-Project1.com)  
+Brief description or summary of Project 1.<br>
+Created: **Month Year**<br>
+Technologies used: HTML, CSS, JS, MongoDB <br>
+Repository Link: [Github](https://link-to-Project1.com)
+
+---
+
+### [Title of Project 2](https://link-to-Project1.com)  
+Brief description or summary of Project 1.<br>
+Created: **Month Year**<br>
+Technologies used: HTML, CSS, JS, MongoDB <br>
+Repository Link: [Github](https://link-to-Project1.com)
+
+---
+
+### [Title of Project 2](https://link-to-Project1.com)  
+Brief description or summary of Project 1.<br>
+Created: **Month Year**<br>
+Technologies used: HTML, CSS, JS, MongoDB <br>
+Repository Link: [Github](https://link-to-Project1.com)
+    
+---
+<br>
+
+Kindly Ignore the above links and texts, I've put them there for testing purposes.
