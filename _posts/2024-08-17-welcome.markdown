@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to the blog"
+date:   2024-08-17 18:07
+categories: jekyll update
+---
+
+This blog focuses on sharing knowledge and personal life experiences around many topics including technology, food, culture, and entertainment. 

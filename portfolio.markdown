@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ## Welcome to My Portfolio
 
-Here you'll find my collection of projects with their relavant links.  <br><br>
+Here you'll find my collection of projects with their relavant links.  <br>
 
 ---
 

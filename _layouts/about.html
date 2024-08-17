@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="post">
-  <div class="post-info">
-    <span>Just another bunch of organic molecules on that Pale Blue Dot!</span>
+<div class="abintro">
+  <div class="intro-info">
+    <span>This page has information about me :)</span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
@@ -17,8 +17,7 @@ layout: default
     {% endif %}
   </div>
 
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>
+  <h1 class="intro-title">{{ page.title }}</h1>
 
   {{ content }}
 </div>
