@@ -16,7 +16,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 You can reach me via:
 
-- Email: [hi@sohampatil.in](mailto:hi@sohampatil.in)
-- Twitter [@techysoham](https://x.com/techysoham)
-- LinkedIn [@techysoham](https://linkedin.com/in/techysoham)
-- Instagram [@techy.soham30](https://instagram.com/techy.soham30)
+**Email -** [hi@sohampatil.in](mailto:hi@sohampatil.in) <br>
+**Twitter -** [@techysoham](https://x.com/techysoham)<br>
+**LinkedIn -** [@techysoham](https://linkedin.com/in/techysoham)<br>
+**Instagram -** [@techy.soham30](https://instagram.com/techy.soham30)

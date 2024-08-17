@@ -30,7 +30,7 @@ twitter_username: techysoham
 github_username:  techysoham
 
 # Build settings
-remote_theme: chesterhow/tale
+remote_theme: techysoham/blogtheme
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
