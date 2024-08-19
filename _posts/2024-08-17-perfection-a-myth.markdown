@@ -3,6 +3,7 @@ layout: post
 title:  "Perfection: A Myth"
 date:   2024-08-18 00:07
 categories: jekyll update
+comments: true
 ---
 
 ***"The fact is, every single one of us is a work-in-progress"*** 
