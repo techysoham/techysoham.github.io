@@ -20,10 +20,11 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
 
+  <center>{% include share-buttons.html %}</center>
+  <br>
+
   {{ content }}
 </div>
-
-{% include share-buttons.html %}
 
 {% if page.comments %}
   {% include disqus_comments.html %}
