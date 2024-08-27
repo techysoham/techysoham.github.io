@@ -12,47 +12,14 @@ Here you'll find my collection of published works, covering topics I care about 
 
 <span class="brmedium"></span>  
 <details>
-<summary>Title of Publication 1</summary><br>
+<summary>DEVELOPMENT OF AN ARDUINO-BASED OBSTACLE AVOIDANCE SYSTEM ON A ROBOT CAR</summary><br>
 
-<span class="detailstext">Journal Name: Lorem Ipsum<br>
-Published: Month Year</span><br><br>
+<span class="detailstext">Published: 08/2024</span><br><br>
 
-<object data="/assets/publications-pdf/sample-3pp.pdf" width="500" height="500" type='application/pdf'></object>
-
-</details>
-
-<span class="brmedium"></span>  
-
----
-
-<span class="brmedium"></span>  
-<details>
-<summary>Title of Publication 2</summary><br>
-
-<span class="detailstext">Journal Name: Lorem Ipsum<br>
-Published: Month Year</span><br><br>
-
-<object data="/assets/publications-pdf/sample-3pp.pdf" width="500" height="500" type='application/pdf' ></object>
+<object data="/assets/publications-pdf/IPR&M Research Paper.pdf" width="500" height="500" type='application/pdf'></object>
 
 </details>
 
-<span class="brmedium"></span>  
+<span class="brmedium"></span>
 
 ---
-<span class="brmedium"></span>  
-<details>
-<summary>Title of Publication 3</summary><br>
-
-<span class="detailstext">Journal Name: Lorem Ipsum<br>
-Published: Month Year</span><br><br>
-
-
-<object class="pdf" data="/assets/publications-pdf/sample-3pp.pdf" width="500" height="500" type='application/pdf'></object>
-
-</details>
-
-<span class="brmedium"></span>  
-
----
-
-Kindly Ignore the above links and texts, I've put them there for testing purposes.
