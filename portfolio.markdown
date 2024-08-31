@@ -11,29 +11,16 @@ Here you'll find my collection of projects with their relavant links.  <br>
 ---
 
 
-### [Title of Project 1](https://link-to-Project1.com)  
-Brief description or summary of Project 1.<br>
-Created: **Month Year**<br>
-Technologies used: HTML, CSS, JS, MongoDB <br>
-Repository Link: [Github](https://link-to-Project1.com)
+### [Personal blog and Portfolio website](https://sohampatil.in/)  
+This blog focuses on sharing knowledge and personal life experiences around many topics including technology, food, culture, and entertainment. It’s where I come to practice writing and share anything that comes to mind. <br><span class="brmedium"></span> 
+Created: **08/2024**<br><span class="brmedium"></span> 
+Technologies used: HTML, CSS, JS, Ruby, Jekyll, Github Pages <br><span class="brmedium"></span> 
+Repository Link: [Github](https://github.com/techysoham/techysoham.github.io)
 
 ---
 
-### [Title of Project 2](https://link-to-Project1.com)  
-Brief description or summary of Project 1.<br>
-Created: **Month Year**<br>
-Technologies used: HTML, CSS, JS, MongoDB <br>
-Repository Link: [Github](https://link-to-Project1.com)
-
----
-
-### [Title of Project 2](https://link-to-Project1.com)  
-Brief description or summary of Project 1.<br>
-Created: **Month Year**<br>
-Technologies used: HTML, CSS, JS, MongoDB <br>
-Repository Link: [Github](https://link-to-Project1.com)
-    
----
-<br>
-
-Kindly Ignore the above links and texts, I've put them there for testing purposes.
+### [Blog theme for Jekyll](#)  
+Minimal Jekyll theme for personal blog. <br><span class="brmedium"></span> 
+Created: **08/2024**<br><span class="brmedium"></span> 
+Technologies used: HTML, CSS, JS, Ruby, Jekyll <br><span class="brmedium"></span> 
+Repository Link: [Github](https://github.com/techysoham/blogtheme)
