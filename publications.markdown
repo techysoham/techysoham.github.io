@@ -16,7 +16,7 @@ Here you'll find my collection of published works, covering topics I care about 
 
 <span class="detailstext">Published: 08/2024</span><br><br>
 
-<object data="/assets/publications-pdf/IPR&M Research Paper.pdf" width="500" height="500" type='application/pdf'></object>
+<object data="/assets/publications-pdf/IPR&M Research Paper Final Copy.pdf" width="500" height="500" type='application/pdf'></object>
 
 </details>
 
