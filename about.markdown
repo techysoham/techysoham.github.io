@@ -18,9 +18,8 @@ Hello there! I am Soham Patil, an engineering student and a part time freelance 
 
 You can reach me via:
 
-**Email -** [hi@sohampatil.in](mailto:hi@sohampatil.in) <br>
+**Email -** [me@sohampatil.in](mailto:me@sohampatil.in) <br>
 **Twitter -** [@techysoham](https://x.com/techysoham)<br>
 **LinkedIn -** [@techysoham](https://linkedin.com/in/techysoham)<br>
 **Instagram -** [@techy.soham30](https://instagram.com/techy.soham30)
-
 
